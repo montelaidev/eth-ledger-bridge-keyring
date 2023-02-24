@@ -20,10 +20,11 @@
     "vinyl-source-stream": "^2.0.0"
   },
   "dependencies": {
-    "@ledgerhq/hw-app-eth": "^6.12.2",
-    "@ledgerhq/hw-transport-http": "^5.45.0",
+    "@ledgerhq/devices": "^8.0.0",
+    "@ledgerhq/hw-app-eth": "6.13.0",
+    "@ledgerhq/hw-transport-http": "^6.27.12",
     "@ledgerhq/hw-transport-u2f": "^5.36.0-deprecated",
-    "@ledgerhq/hw-transport-webhid": "^6.7.0",
+    "@ledgerhq/hw-transport-webhid": "^6.27.12",
     "babel-runtime": "^6.26.0",
     "babelify": "^8.0.0",
     "browserify": "^16.2.2",
